@@ -1,7 +1,7 @@
 {
 	"classPath": "Sources",
 	"main": "Make",
-	"name": "Kha",
+	"name": "kha",
 	"version": "0.0.0",
 	"license": "zlib"
 }
